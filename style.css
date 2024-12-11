@@ -269,6 +269,12 @@
     .footer {
         display: flex;
     }
+    .section1{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        row-gap: 61px;
+    }
 }
 
 @media(max-width:320px) {
